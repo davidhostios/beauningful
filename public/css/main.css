@@ -1,0 +1,50 @@
+.jumbotron-style {
+    text-align: center;
+    background-color: #337ab7;
+    color: #eee;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.myface {
+    border: solid 1px black;
+    padding: 20px;
+    border-radius: 100px;
+}
+
+blockquote{
+    border-left:none
+}
+
+.quote-badge{
+    background-color: rgba(0, 0, 0, 0.2);   
+}
+
+.quote-box{
+    padding: 35px;
+    background-color: #337ab7;
+    color: #eee;
+    overflow: hidden;
+    margin-top: 50px;
+    border-radius: 17px;
+    margin-top: 25px;
+    width: 325px;
+    box-shadow: 2px 2px 2px 2px #E0E0E0;
+    
+}
+
+.quotation-mark{
+    
+    margin-top: -10px;
+    font-weight: bold;
+    font-size:100px;
+    color: white;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+
+.quote-text{
+    
+    font-size: 19px;
+    margin-top: -65px;
+}
